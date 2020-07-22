@@ -20,6 +20,7 @@ class Student{
     }
 
     public String getName(){
-        return name;
+        return "waruna";
     }
+
 }
